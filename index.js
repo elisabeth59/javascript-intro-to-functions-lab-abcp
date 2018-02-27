@@ -10,6 +10,5 @@ function logShout(string) {
 function logWhisper(string) {
   console.log('hello')
 }
-function sayHiToGrandma("I love you, Grandma.") {
-  return mixedCase.toLawo("I love you, too.")
+function sayHiToGrandma(s
 }
