@@ -16,3 +16,6 @@ function sayHiToGrandma(string) {
 function sayHiToGrandma(string) {
   return ('YES INDEED!')
 }
+function sayHiToGrandma(string) {
+  
+}
